@@ -19,7 +19,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ThemeProvider theme={theme}>
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
-          <BrowserRouter basename="/power_pulse_frontend">
+          <BrowserRouter basename="/fs-74-react-node-made-by-curiosity">
             <App />
           </BrowserRouter>
         </PersistGate>
