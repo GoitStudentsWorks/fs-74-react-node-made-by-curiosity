@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-74-react-node-made-by-curiosity/static/css/main.dea71fd3.css",
-    "main.js": "/fs-74-react-node-made-by-curiosity/static/js/main.184f953c.js",
+    "main.js": "/fs-74-react-node-made-by-curiosity/static/js/main.c4cb4bf7.js",
     "static/js/470.77ef5b0e.chunk.js": "/fs-74-react-node-made-by-curiosity/static/js/470.77ef5b0e.chunk.js",
     "static/js/31.fdc04ad9.chunk.js": "/fs-74-react-node-made-by-curiosity/static/js/31.fdc04ad9.chunk.js",
     "static/js/515.7f65fb6f.chunk.js": "/fs-74-react-node-made-by-curiosity/static/js/515.7f65fb6f.chunk.js",
@@ -117,7 +117,7 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/fs-74-react-node-made-by-curiosity/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/fs-74-react-node-made-by-curiosity/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "main.dea71fd3.css.map": "/fs-74-react-node-made-by-curiosity/static/css/main.dea71fd3.css.map",
-    "main.184f953c.js.map": "/fs-74-react-node-made-by-curiosity/static/js/main.184f953c.js.map",
+    "main.c4cb4bf7.js.map": "/fs-74-react-node-made-by-curiosity/static/js/main.c4cb4bf7.js.map",
     "470.77ef5b0e.chunk.js.map": "/fs-74-react-node-made-by-curiosity/static/js/470.77ef5b0e.chunk.js.map",
     "31.fdc04ad9.chunk.js.map": "/fs-74-react-node-made-by-curiosity/static/js/31.fdc04ad9.chunk.js.map",
     "515.7f65fb6f.chunk.js.map": "/fs-74-react-node-made-by-curiosity/static/js/515.7f65fb6f.chunk.js.map",
@@ -138,6 +138,6 @@
   },
   "entrypoints": [
     "static/css/main.dea71fd3.css",
-    "static/js/main.184f953c.js"
+    "static/js/main.c4cb4bf7.js"
   ]
 }
