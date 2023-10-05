@@ -2,7 +2,7 @@
   "name": "power_pulse_frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://made-by-curiosity.github.io/power_pulse_frontend/",
+  "homepage": "https://GoitStudentsWorks.github.io/fs-74-react-node-made-by-curiosity/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
